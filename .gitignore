@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Large/binary model artifacts
+*.pkl
+ML/forecast_model.pkl
+
+# Runtime logs
+*.log
+logs/
+backend/logs/

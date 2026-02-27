@@ -1,0 +1,14 @@
+html,body,#root{height:100%;}
+body{font-family:Inter,Segoe UI,Roboto,Arial;margin:0;background:linear-gradient(135deg,#667eea,#764ba2);}
+h1{color:white;margin-bottom:12px}
+#root > div{background:white;padding:16px;border-radius:12px}
+.leaflet-container{background:#fff}
+
+/* Larger, broader house popup styling */
+.house-popup .leaflet-popup-content-wrapper{
+	border-radius: 12px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+.house-popup .leaflet-popup-content{
+	margin: 14px 18px;
+}

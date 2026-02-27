@@ -1,0 +1,48 @@
+# Gram Meter - Backend Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Django & REST Framework
+Django==6.0
+djangorestframework==3.16.1
+djangorestframework_simplejwt==5.5.1
+django-cors-headers==4.9.0
+django-redis==6.0.0
+
+# ASGI Server & WebSockets
+daphne==4.2.1
+channels==4.3.2
+channels_redis==4.3.0
+
+# Database
+psycopg2-binary==2.9.11
+
+# Authentication & Security
+PyJWT==2.10.1
+pyotp==2.9.0
+cryptography==46.0.3
+twilio==9.9.0
+
+# ML & Data Processing
+numpy==2.4.0
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.16.3
+joblib==1.5.3
+
+# FastAPI (ML Gateway)
+fastapi==0.127.0
+uvicorn==0.40.0
+pydantic==2.12.5
+
+# Utilities
+python-decouple==3.8
+python-dotenv==1.2.1
+requests==2.32.5
+redis==7.1.0
+PyYAML==6.0.3
+pillow==12.0.0
+qrcode==8.2
+phonenumbers==9.0.21
+
+# API Documentation
+drf-yasg==1.21.11

@@ -1,0 +1,501 @@
+﻿house_id,name,live_voltage (V),live_usage (kW),Status Note
+IN-MUM-1407,Aarush Mukherjee,203.4,3.1,Normal
+IN-MUM-5071,Harshil Shrivastav,184.5,12.5,Brownout Level
+IN-MUM-2657,Meera Jain,223.7,0.3,Normal
+IN-MUM-8728,Simran Mukherjee,240.6,3.9,High Load
+IN-MUM-8069,Ishaan Shrivastav,235.4,3.3,Normal
+IN-MUM-7246,Nisha Singh,186.3,8.6,Brownout Level
+IN-MUM-4364,Maya Rao,223.9,5.1,Normal
+IN-MUM-6375,Varun Sharma,204.3,12.7,Critical Load
+IN-MUM-6711,Sanjana Agarwal,199.1,0.3,Brownout Level
+IN-MUM-1456,Lekha Tripathi,218.2,11.8,Normal
+IN-MUM-6878,Harshil Verma,181.5,11.1,Brownout Level
+IN-MUM-9800,Avni Dwivedi,215.8,6.9,Normal
+IN-MUM-1100,Prateek Naidu,231.0,0.9,Normal
+IN-MUM-1563,Karan Bansal,234.8,2.9,Normal
+IN-MUM-5073,Devansh Deshmukh,190.4,7.1,Brownout Level
+IN-MUM-8603,Ishani Menon,196.9,0.6,Brownout Level
+IN-MUM-1360,Jatin Deshmukh,218.6,6.2,Normal
+IN-MUM-4519,Tanisha Seth,220.7,4.8,Normal
+IN-MUM-3677,Nisha Deshmukh,232.9,1.2,Normal
+IN-MUM-1207,Ananya Seth,237.4,7.4,Normal
+IN-MUM-5723,Aarush Deshpande,237.2,6.1,Normal
+IN-MUM-8309,Rishabh Dwivedi,217.4,1.5,Normal
+IN-MUM-8434,Vikram Shrivastav,217.6,8.6,Normal
+IN-MUM-9202,Anya Iyer,196.2,8.1,Brownout Level
+IN-MUM-4469,Navya Chauhan,200.2,6.6,Normal
+IN-MUM-1153,Maya Reddy,212.2,4.9,Normal
+IN-MUM-3879,Harshil Patel,255.8,13.4,Severe Overvoltage
+IN-MUM-5900,Sameer Kunj,196.8,5.4,Brownout Level
+IN-MUM-2013,Sneha Nair,183.2,6.5,Brownout Level
+IN-MUM-5302,Navya Roy,192.9,0.8,Brownout Level
+IN-MUM-1032,Divya Srinivasan,242.5,4.0,High Load
+IN-MUM-4496,Aarush Agarwal,191.9,9.8,Brownout Level
+IN-MUM-7066,Saanvi Sood,196.6,4.3,Brownout Level
+IN-MUM-8111,Nisha Tripathi,259.0,12.8,Severe Overvoltage
+IN-MUM-4892,Ishani Deshmukh,204.4,13.1,Critical Load
+IN-MUM-7446,Arjun Rathore,209.1,9.4,Normal
+IN-MUM-2947,Sameer Jain,215.3,7.8,Normal
+IN-MUM-4553,Kunal Jha,207.0,5.4,Normal
+IN-MUM-5123,Arjun Mukherjee,180.9,13.6,Brownout Level
+IN-MUM-7663,Dhruv Chaudhary,237.0,7.0,Normal
+IN-MUM-6188,Dhruv Agarwal,256.7,2.2,Severe Overvoltage
+IN-MUM-9961,Akshay Patel,255.6,1.8,Severe Overvoltage
+IN-MUM-1841,Vivaan Roy,214.7,10.0,Normal
+IN-MUM-5056,Ananya Gupta,198.0,8.1,Brownout Level
+IN-MUM-7679,Prisha Srinivasan,250.1,10.2,Severe Overvoltage
+IN-MUM-3751,Tanisha Pandey,213.7,1.8,Normal
+IN-MUM-3272,Ananya Hegde,220.7,9.2,Normal
+IN-MUM-5527,Isha Singh,200.1,3.8,Normal
+IN-MUM-6928,Devansh Seth,180.1,0.1,Brownout Level
+IN-MUM-6705,Jatin Rao,208.0,10.8,Normal
+IN-MUM-3998,Deepak Gupta,188.8,7.0,Brownout Level
+IN-MUM-1068,Anya Bose,211.1,1.7,Normal
+IN-MUM-9219,Karan Singh,221.0,5.7,Normal
+IN-MUM-5457,Aarav Kunj,242.0,0.4,High Load
+IN-MUM-8761,Rishabh Mukherjee,0.0,0.0,Power Outage
+IN-MUM-7935,Simran Patel,193.2,12.2,Brownout Level
+IN-MUM-8730,Tanisha Deshpande,197.4,0.8,Brownout Level
+IN-MUM-4440,Prisha Bhatt,194.8,11.7,Brownout Level
+IN-MUM-1865,Saanvi Nair,220.0,3.4,Normal
+IN-MUM-1499,Kunal Hegde,240.2,2.2,High Load
+IN-MUM-2820,Jatin Patil,243.1,12.2,High Load
+IN-MUM-7955,Vivaan Pillai,206.8,6.0,Normal
+IN-MUM-4484,Tanvi Verma,242.1,10.6,High Load
+IN-MUM-7227,Anya Gill,190.2,2.2,Brownout Level
+IN-MUM-5379,Meera Menon,241.9,11.9,High Load
+IN-MUM-1816,Sameer Pillai,234.5,7.3,Normal
+IN-MUM-8042,Bhavana Gupta,180.5,7.8,Brownout Level
+IN-MUM-4836,Bhavana Shrivastav,252.2,0.7,Severe Overvoltage
+IN-MUM-2994,Gauri Malhotra,214.8,1.0,Normal
+IN-MUM-6263,Jatin Nair,199.7,6.8,Brownout Level
+IN-MUM-3481,Tanvi Malhotra,190.3,10.9,Brownout Level
+IN-MUM-3198,Riya Sharma,227.3,11.4,Normal
+IN-MUM-7067,Sameer Agarwal,204.2,7.9,Normal
+IN-MUM-9203,Aditya Rao,187.8,3.6,Brownout Level
+IN-MUM-4506,Sameer Patel,200.0,4.8,Normal
+IN-MUM-1714,Vivaan Patil,236.8,14.0,Critical Load
+IN-MUM-5064,Anirudh Malhotra,191.8,5.3,Brownout Level
+IN-MUM-4969,Karan Verma,0.0,0.0,Power Outage
+IN-MUM-6333,Riya Gupta,229.3,0.6,Normal
+IN-MUM-9599,Pooja Menon,0.0,0.0,Power Outage
+IN-MUM-8477,Gauri Kunj,191.0,5.3,Brownout Level
+IN-MUM-2138,Reyansh Mehta,183.2,6.2,Brownout Level
+IN-MUM-7745,Tanvi Khatri,188.0,7.7,Brownout Level
+IN-MUM-1809,Jatin Bose,255.5,11.3,Severe Overvoltage
+IN-MUM-3953,Shruti Seth,203.9,6.6,Normal
+IN-MUM-8978,Kunal Bhardwaj,232.7,4.5,Normal
+IN-MUM-6124,Avni Gupta,225.8,1.5,Normal
+IN-MUM-9196,Bhavana Dwivedi,205.8,7.8,Normal
+IN-MUM-3262,Sameer Mishra,204.3,8.0,Normal
+IN-MUM-3599,Gaurav Jadhav,0.0,0.0,Power Outage
+IN-MUM-2187,Rohan Jha,191.5,4.3,Brownout Level
+IN-MUM-8239,Neeraj Deshmukh,243.4,6.8,High Load
+IN-MUM-1430,Sanjana Bansal,212.8,4.5,Normal
+IN-MUM-7416,Anya Agarwal,0.0,0.0,Power Outage
+IN-MUM-7616,Karan Deshmukh,211.3,1.4,Normal
+IN-MUM-6897,Dhruv Dubey,246.6,8.3,High Load
+IN-MUM-3741,Prateek Bhatt,209.3,11.9,Normal
+IN-MUM-5094,Sonal Saxena,237.8,4.7,Normal
+IN-MUM-1086,Sameer Chaudhary,215.7,7.4,Normal
+IN-MUM-5174,Gauri Seth,218.3,9.5,Normal
+IN-MUM-9514,Arjun Malhotra,221.9,8.1,Normal
+IN-MUM-4215,Rohan Deshmukh,0.0,0.0,Power Outage
+IN-MUM-4734,Pooja Sood,204.1,11.9,Normal
+IN-MUM-7735,Kabir Pillai,225.2,9.2,Normal
+IN-MUM-4028,Kavya Joshi,230.4,1.4,Normal
+IN-MUM-6896,Gaurav Jadhav,244.1,5.8,High Load
+IN-MUM-5846,Navya Jain,0.0,0.0,Power Outage
+IN-MUM-2081,Gauri Mukherjee,200.8,4.5,Normal
+IN-MUM-8240,Sneha Pandey,186.6,8.9,Brownout Level
+IN-MUM-1066,Jatin Rao,0.0,0.0,Power Outage
+IN-MUM-8595,Sanjana Roy,225.0,11.1,Normal
+IN-MUM-3601,Yash Patel,248.4,10.6,High Load
+IN-MUM-6164,Navya Mehta,258.4,0.3,Severe Overvoltage
+IN-MUM-3776,Ishaan Khatri,251.7,5.0,Severe Overvoltage
+IN-MUM-2820,Yash Bhardwaj,238.0,9.8,Normal
+IN-MUM-2376,Deepak Saxena,230.7,10.6,Normal
+IN-MUM-4773,Pooja Mukherjee,213.6,8.5,Normal
+IN-MUM-3085,Rishabh Patel,186.3,13.7,Brownout Level
+IN-MUM-4169,Gaurav Agarwal,195.6,5.4,Brownout Level
+IN-MUM-1571,Rahul Narayanan,243.6,8.1,High Load
+IN-MUM-9467,Harshil Bhatt,235.5,3.8,Normal
+IN-MUM-3901,Ishaan Khan,182.3,6.5,Brownout Level
+IN-MUM-8378,Kiara Dubey,201.7,13.5,Critical Load
+IN-MUM-1060,Gauri Singh,246.5,0.7,High Load
+IN-MUM-6741,Ananya Iyer,206.7,2.7,Normal
+IN-MUM-7242,Yash Pandey,213.8,11.6,Normal
+IN-MUM-4938,Gaurav Patel,256.7,6.2,Severe Overvoltage
+IN-MUM-9785,Ishaan Bansal,256.3,7.3,Severe Overvoltage
+IN-MUM-8708,Kiara Deshpande,253.7,13.7,Severe Overvoltage
+IN-MUM-2991,Shruti Joshi,253.5,3.4,Severe Overvoltage
+IN-MUM-8377,Anirudh Rathore,239.2,11.6,Normal
+IN-MUM-6170,Navya Pandey,205.0,1.5,Normal
+IN-MUM-6373,Prateek Menon,189.9,1.6,Brownout Level
+IN-MUM-6385,Aryan Bhardwaj,211.9,7.0,Normal
+IN-MUM-6621,Kabir Kulkarni,227.9,0.2,Normal
+IN-MUM-3014,Rahul Pandey,214.4,3.7,Normal
+IN-MUM-6039,Devansh Iyer,0.0,0.0,Power Outage
+IN-MUM-1590,Siddharth Singh,189.4,11.3,Brownout Level
+IN-MUM-4717,Varun Seth,254.1,2.5,Severe Overvoltage
+IN-MUM-1947,Sameer Rao,219.4,4.0,Normal
+IN-MUM-6905,Divya Joshi,181.2,13.6,Brownout Level
+IN-MUM-5134,Divya Joshi,217.2,8.9,Normal
+IN-MUM-6994,Sneha Sood,183.5,8.8,Brownout Level
+IN-MUM-9683,Shruti Singh,252.5,8.3,Severe Overvoltage
+IN-MUM-5173,Lekha Bhatt,220.6,1.3,Normal
+IN-MUM-4825,Varun Rathore,193.8,12.7,Brownout Level
+IN-MUM-8318,Anya Gupta,204.5,8.5,Normal
+IN-MUM-1203,Ishani Bhardwaj,195.0,1.9,Brownout Level
+IN-MUM-5887,Karan Rathore,247.8,2.4,High Load
+IN-MUM-4815,Navya Bhatt,224.1,6.2,Normal
+IN-MUM-8885,Pooja Gupta,230.2,6.1,Normal
+IN-MUM-1369,Sneha Srinivasan,0.0,0.0,Power Outage
+IN-MUM-7144,Aryan Bansal,253.9,11.2,Severe Overvoltage
+IN-MUM-9888,Saisha Roy,210.3,9.8,Normal
+IN-MUM-1719,Saisha Malhotra,0.0,0.0,Power Outage
+IN-MUM-7498,Varun Singh,248.9,8.8,High Load
+IN-MUM-5032,Aryan Nair,191.3,6.6,Brownout Level
+IN-MUM-9181,Simran Kunj,231.6,6.8,Normal
+IN-MUM-7187,Neeraj Tripathi,245.7,10.6,High Load
+IN-MUM-9990,Kabir Saxena,221.5,0.6,Normal
+IN-MUM-7408,Gauri Sharma,235.1,11.8,Normal
+IN-MUM-9330,Jatin Pillai,229.1,10.6,Normal
+IN-MUM-9248,Sanjana Sharma,232.7,6.5,Normal
+IN-MUM-9100,Sameer Mukherjee,255.0,13.5,Severe Overvoltage
+IN-MUM-7131,Dhruv Khan,240.5,12.2,High Load
+IN-MUM-6014,Manish Pillai,0.0,0.0,Power Outage
+IN-MUM-1255,Tanvi Sharma,230.2,9.1,Normal
+IN-MUM-3448,Sameer Sood,229.9,13.0,Critical Load
+IN-MUM-6444,Rohan Dwivedi,256.3,1.4,Severe Overvoltage
+IN-MUM-1866,Kunal Menon,206.8,0.5,Normal
+IN-MUM-7866,Navya Rathore,237.2,8.7,Normal
+IN-MUM-5371,Isha Seth,220.1,7.5,Normal
+IN-MUM-6620,Aryan Bhardwaj,208.5,8.9,Normal
+IN-MUM-7604,Gaurav Shrivastav,253.7,11.6,Severe Overvoltage
+IN-MUM-1666,Abhishek Seth,202.6,10.3,Normal
+IN-MUM-2289,Nisha Khan,248.3,5.4,High Load
+IN-MUM-9842,Yash Deshmukh,248.1,10.2,High Load
+IN-MUM-4726,Ishaan Tyagi,230.0,8.2,Normal
+IN-MUM-6572,Navya Singh,239.7,7.8,Normal
+IN-MUM-4906,Isha Kunj,214.9,10.9,Normal
+IN-MUM-3597,Akshay Iyer,245.9,5.8,High Load
+IN-MUM-4036,Aryan Singh,258.2,3.7,Severe Overvoltage
+IN-MUM-1104,Nisha Bansal,216.3,13.0,Critical Load
+IN-MUM-7966,Anya Kapoor,225.9,0.2,Normal
+IN-MUM-5821,Simran Sharma,246.1,0.3,High Load
+IN-MUM-9406,Deepak Seth,225.1,3.7,Normal
+IN-MUM-8977,Ishaan Iyer,246.1,12.6,High Load
+IN-MUM-9411,Ishani Pandey,204.9,6.6,Normal
+IN-MUM-9134,Saisha Khan,183.4,10.0,Brownout Level
+IN-MUM-3256,Divya Patil,234.5,5.8,Normal
+IN-MUM-3938,Rohan Naidu,205.0,3.7,Normal
+IN-MUM-1190,Saisha Patil,188.4,10.2,Brownout Level
+IN-MUM-1118,Vivaan Singh,196.0,5.5,Brownout Level
+IN-MUM-6818,Jatin Nair,205.7,6.7,Normal
+IN-MUM-5569,Aditya Kulkarni,206.4,2.0,Normal
+IN-MUM-8093,Tanisha Bhardwaj,207.2,6.9,Normal
+IN-MUM-8957,Aryan Jha,195.4,4.9,Brownout Level
+IN-MUM-9741,Siddharth Saxena,190.3,6.7,Brownout Level
+IN-MUM-1126,Nisha Bose,239.7,3.9,Normal
+IN-MUM-3157,Kavya Dwivedi,202.1,5.1,Normal
+IN-MUM-2502,Siddharth Jain,204.2,1.8,Normal
+IN-MUM-6662,Siddharth Pandey,252.6,8.6,Severe Overvoltage
+IN-MUM-9340,Tanisha Nair,258.6,3.4,Severe Overvoltage
+IN-MUM-1237,Gaurav Naidu,200.1,9.8,Normal
+IN-MUM-7904,Aarav Deshpande,188.4,13.6,Brownout Level
+IN-MUM-1464,Aarush Rao,191.3,3.3,Brownout Level
+IN-MUM-1703,Harshil Joshi,0.0,0.0,Power Outage
+IN-MUM-1999,Meera Rathore,223.8,10.1,Normal
+IN-MUM-7398,Harshil Kulkarni,251.7,12.2,Severe Overvoltage
+IN-MUM-8089,Ananya Bhardwaj,194.8,2.9,Brownout Level
+IN-MUM-4681,Ishaan Kunj,238.6,2.8,Normal
+IN-MUM-3581,Anya Kunj,246.1,9.5,High Load
+IN-MUM-4134,Akshay Khatri,184.2,1.0,Brownout Level
+IN-MUM-1370,Neeraj Bhatt,258.9,2.4,Severe Overvoltage
+IN-MUM-1850,Vivaan Gupta,182.9,3.9,Brownout Level
+IN-MUM-4838,Abhishek Mehta,219.5,1.5,Normal
+IN-MUM-6696,Ishaan Tripathi,189.7,11.5,Brownout Level
+IN-MUM-5518,Karan Mishra,194.4,9.4,Brownout Level
+IN-MUM-5427,Riya Patel,209.1,12.1,Critical Load
+IN-MUM-9302,Abhishek Verma,217.8,3.6,Normal
+IN-MUM-5525,Isha Mehta,243.7,5.1,High Load
+IN-MUM-8837,Simran Tyagi,194.8,0.9,Brownout Level
+IN-MUM-9338,Rishabh Reddy,180.8,3.7,Brownout Level
+IN-MUM-3733,Rohan Saxena,215.6,3.5,Normal
+IN-MUM-3914,Shruti Mehta,243.7,6.1,High Load
+IN-MUM-4156,Prateek Srinivasan,189.9,10.1,Brownout Level
+IN-MUM-6468,Saanvi Srinivasan,193.6,11.7,Brownout Level
+IN-MUM-6601,Tanisha Nair,238.2,6.5,Normal
+IN-MUM-8996,Isha Kunj,212.1,9.4,Normal
+IN-MUM-2893,Pooja Patel,238.5,3.6,Normal
+IN-MUM-4152,Gauri Naidu,222.6,11.4,Normal
+IN-MUM-6141,Navya Verma,258.6,10.1,Severe Overvoltage
+IN-MUM-3904,Kabir Chauhan,235.4,13.4,Critical Load
+IN-MUM-9134,Tanvi Pandey,218.2,0.9,Normal
+IN-MUM-8481,Ishaan Mishra,208.5,13.0,Critical Load
+IN-MUM-7251,Dhruv Malhotra,221.9,1.8,Normal
+IN-MUM-6156,Ishaan Patil,247.4,11.3,High Load
+IN-MUM-4899,Akshay Kunj,202.9,7.2,Normal
+IN-MUM-1751,Bhavana Verma,257.9,7.0,Severe Overvoltage
+IN-MUM-6515,Saisha Tyagi,203.4,13.4,Critical Load
+IN-MUM-2483,Navya Agarwal,207.2,0.9,Normal
+IN-MUM-6778,Pooja Agarwal,189.6,5.3,Brownout Level
+IN-MUM-5853,Aryan Naidu,214.5,8.7,Normal
+IN-MUM-6256,Karan Rathore,234.2,12.8,Critical Load
+IN-MUM-1016,Arjun Patel,255.6,3.3,Severe Overvoltage
+IN-MUM-2061,Reyansh Naidu,216.7,9.4,Normal
+IN-MUM-4371,Sneha Khatri,213.3,9.3,Normal
+IN-MUM-2797,Maya Srinivasan,0.0,0.0,Power Outage
+IN-MUM-6267,Sneha Kunj,247.0,5.3,High Load
+IN-MUM-2017,Tanvi Srinivasan,213.7,5.4,Normal
+IN-MUM-4498,Rishabh Hegde,190.9,10.1,Brownout Level
+IN-MUM-3341,Nisha Jain,211.9,7.7,Normal
+IN-MUM-5501,Ishaan Chaudhary,238.4,4.9,Normal
+IN-MUM-2352,Kiara Tripathi,236.4,11.8,Normal
+IN-MUM-5786,Avni Jadhav,0.0,0.0,Power Outage
+IN-MUM-7088,Simran Verma,197.1,5.3,Brownout Level
+IN-MUM-2777,Lekha Mukherjee,219.7,12.0,Normal
+IN-MUM-1015,Manish Jha,189.2,7.9,Brownout Level
+IN-MUM-1647,Shruti Nair,239.9,2.8,Normal
+IN-MUM-9647,Arjun Shrivastav,247.3,12.3,High Load
+IN-MUM-5253,Avni Kunj,205.5,4.8,Normal
+IN-MUM-5617,Akshay Bhatt,241.5,5.7,High Load
+IN-MUM-8440,Avni Rathore,215.0,4.2,Normal
+IN-MUM-2920,Devansh Mishra,257.7,2.5,Severe Overvoltage
+IN-MUM-8106,Isha Srinivasan,220.1,8.7,Normal
+IN-MUM-4145,Manish Rathore,204.2,4.6,Normal
+IN-MUM-1944,Neeraj Hegde,180.5,6.2,Brownout Level
+IN-MUM-1807,Manish Hegde,202.3,9.6,Normal
+IN-MUM-2415,Jatin Nair,186.9,8.4,Brownout Level
+IN-MUM-3887,Amit Chauhan,247.5,5.7,High Load
+IN-MUM-2211,Ishani Mishra,228.3,3.1,Normal
+IN-MUM-9258,Simran Rathore,243.1,3.8,High Load
+IN-MUM-4724,Arjun Patil,227.4,2.7,Normal
+IN-MUM-2482,Manish Tyagi,200.0,12.4,Critical Load
+IN-MUM-3866,Rahul Pandey,210.5,8.9,Normal
+IN-MUM-6065,Lekha Bansal,231.6,5.1,Normal
+IN-MUM-8745,Neeraj Naidu,219.8,7.9,Normal
+IN-MUM-6434,Kavya Tripathi,253.8,12.7,Severe Overvoltage
+IN-MUM-6073,Sneha Kapoor,219.4,13.5,Critical Load
+IN-MUM-7086,Tanisha Kulkarni,182.6,3.9,Brownout Level
+IN-MUM-8099,Prateek Nair,203.0,13.6,Critical Load
+IN-MUM-1756,Saanvi Gill,212.3,8.0,Normal
+IN-MUM-7591,Pooja Verma,191.3,10.6,Brownout Level
+IN-MUM-8125,Siddharth Dwivedi,221.8,1.6,Normal
+IN-MUM-7311,Arjun Rathore,259.6,0.5,Severe Overvoltage
+IN-MUM-3189,Gauri Tripathi,243.3,0.5,High Load
+IN-MUM-2748,Anya Kapoor,211.4,11.2,Normal
+IN-MUM-5837,Divya Mishra,247.3,0.6,High Load
+IN-MUM-7491,Navya Sood,242.3,9.2,High Load
+IN-MUM-6675,Pooja Pandey,257.2,1.8,Severe Overvoltage
+IN-MUM-9222,Kunal Jadhav,181.3,3.7,Brownout Level
+IN-MUM-9147,Lekha Sood,188.5,4.8,Brownout Level
+IN-MUM-8447,Kabir Menon,231.5,4.0,Normal
+IN-MUM-5011,Karan Dwivedi,230.1,6.5,Normal
+IN-MUM-1439,Manish Kulkarni,249.4,10.4,High Load
+IN-MUM-5523,Amit Singh,0.0,0.0,Power Outage
+IN-MUM-4308,Saanvi Gill,219.1,4.4,Normal
+IN-MUM-7944,Meera Verma,214.0,1.6,Normal
+IN-MUM-2522,Arjun Menon,0.0,0.0,Power Outage
+IN-MUM-2667,Ananya Patil,210.4,7.5,Normal
+IN-MUM-9238,Vikram Hegde,203.0,12.6,Critical Load
+IN-MUM-9130,Vikram Pillai,183.8,9.0,Brownout Level
+IN-MUM-2387,Harshil Hegde,255.2,1.5,Severe Overvoltage
+IN-MUM-9166,Anirudh Agarwal,201.4,6.8,Normal
+IN-MUM-4516,Kiara Sood,251.5,10.7,Severe Overvoltage
+IN-MUM-1873,Aditya Srinivasan,241.7,6.9,High Load
+IN-MUM-1978,Arjun Verma,233.0,2.6,Normal
+IN-MUM-7235,Amit Mehta,239.1,1.4,Normal
+IN-MUM-7845,Rishabh Pandey,230.6,4.1,Normal
+IN-MUM-2150,Rahul Mukherjee,246.1,4.4,High Load
+IN-MUM-4905,Amit Patil,237.5,4.7,Normal
+IN-MUM-9274,Manish Dubey,222.5,1.1,Normal
+IN-MUM-5036,Ishani Rathore,216.9,3.8,Normal
+IN-MUM-8233,Sneha Saxena,241.1,5.0,High Load
+IN-MUM-8249,Navya Mishra,245.9,3.9,High Load
+IN-MUM-9169,Bhavana Khatri,235.8,5.4,Normal
+IN-MUM-2042,Maya Naidu,245.3,10.5,High Load
+IN-MUM-4874,Prisha Patel,207.8,7.8,Normal
+IN-MUM-8875,Abhishek Jadhav,256.1,11.2,Severe Overvoltage
+IN-MUM-2437,Kiara Mishra,198.1,4.6,Brownout Level
+IN-MUM-9768,Tanisha Tripathi,208.6,9.7,Normal
+IN-MUM-2712,Meera Chaudhary,196.3,4.8,Brownout Level
+IN-MUM-5272,Aarush Gupta,204.4,12.2,Critical Load
+IN-MUM-1524,Simran Rathore,0.0,0.0,Power Outage
+IN-MUM-6084,Meera Bose,194.0,3.4,Brownout Level
+IN-MUM-5048,Meera Chaudhary,244.0,0.7,High Load
+IN-MUM-5384,Devansh Bhatt,200.2,13.7,Critical Load
+IN-MUM-4147,Anirudh Pillai,200.7,10.2,Normal
+IN-MUM-7615,Siddharth Bhardwaj,233.3,11.6,Normal
+IN-MUM-5994,Riya Tripathi,180.4,4.3,Brownout Level
+IN-MUM-4005,Prateek Tripathi,211.0,5.9,Normal
+IN-MUM-9803,Divya Deshpande,254.2,0.2,Severe Overvoltage
+IN-MUM-8617,Nisha Mehta,225.9,13.4,Critical Load
+IN-MUM-6312,Prateek Mukherjee,229.5,5.5,Normal
+IN-MUM-5127,Tanisha Seth,0.0,0.0,Power Outage
+IN-MUM-3041,Bhavana Bhardwaj,192.4,5.7,Brownout Level
+IN-MUM-2705,Meera Tripathi,209.6,12.7,Critical Load
+IN-MUM-7658,Aarush Bhatt,223.4,6.6,Normal
+IN-MUM-9457,Avni Verma,241.3,11.2,High Load
+IN-MUM-4199,Tanvi Rathore,202.6,13.2,Critical Load
+IN-MUM-4351,Bhavana Deshpande,207.2,2.6,Normal
+IN-MUM-1054,Priyanka Deshpande,224.3,5.0,Normal
+IN-MUM-2500,Divya Nair,223.4,2.9,Normal
+IN-MUM-9616,Kunal Shrivastav,197.7,1.9,Brownout Level
+IN-MUM-3246,Prateek Nair,0.0,0.0,Power Outage
+IN-MUM-5111,Vikram Dwivedi,186.9,5.7,Brownout Level
+IN-MUM-6569,Sanjana Rao,183.9,0.2,Brownout Level
+IN-MUM-9528,Shruti Reddy,195.5,13.1,Brownout Level
+IN-MUM-1504,Shruti Saxena,212.2,12.9,Critical Load
+IN-MUM-1238,Ishaan Patil,212.8,13.1,Critical Load
+IN-MUM-3260,Ishani Joshi,251.2,4.5,Severe Overvoltage
+IN-MUM-5347,Prateek Agarwal,214.4,11.3,Normal
+IN-MUM-8388,Kunal Bhardwaj,250.7,10.2,Severe Overvoltage
+IN-MUM-3970,Aarav Kapoor,0.0,0.0,Power Outage
+IN-MUM-7722,Rahul Naidu,215.6,2.5,Normal
+IN-MUM-2141,Shruti Dubey,249.2,2.7,High Load
+IN-MUM-5288,Saisha Patil,236.5,4.9,Normal
+IN-MUM-6755,Arjun Chaudhary,231.8,1.4,Normal
+IN-MUM-5433,Rohan Jadhav,0.0,0.0,Power Outage
+IN-MUM-2172,Siddharth Sood,191.0,3.1,Brownout Level
+IN-MUM-7562,Bhavana Bansal,238.3,13.6,Critical Load
+IN-MUM-9712,Prisha Jain,230.8,0.6,Normal
+IN-MUM-9889,Devansh Joshi,237.3,10.7,Normal
+IN-MUM-2707,Manish Verma,248.4,3.7,High Load
+IN-MUM-7483,Pooja Agarwal,251.9,2.5,Severe Overvoltage
+IN-MUM-4042,Saanvi Patel,247.3,3.0,High Load
+IN-MUM-2417,Aarav Mehta,241.2,6.3,High Load
+IN-MUM-6831,Maya Jain,256.1,9.9,Severe Overvoltage
+IN-MUM-4782,Karan Mishra,238.7,9.5,Normal
+IN-MUM-8722,Abhishek Gupta,251.5,1.9,Severe Overvoltage
+IN-MUM-6451,Kavya Khan,208.0,1.8,Normal
+IN-MUM-8952,Vivaan Rao,216.0,5.9,Normal
+IN-MUM-3549,Navya Patel,254.8,3.4,Severe Overvoltage
+IN-MUM-7097,Divya Roy,194.3,12.9,Brownout Level
+IN-MUM-3074,Kabir Chauhan,0.0,0.0,Power Outage
+IN-MUM-3560,Ishaan Rathore,184.2,3.6,Brownout Level
+IN-MUM-8529,Rohan Jha,189.2,10.5,Brownout Level
+IN-MUM-8238,Reyansh Gill,184.4,13.3,Brownout Level
+IN-MUM-7636,Rohan Bansal,236.8,6.0,Normal
+IN-MUM-6268,Gaurav Verma,259.5,12.1,Severe Overvoltage
+IN-MUM-9721,Manish Khan,180.4,2.1,Brownout Level
+IN-MUM-9577,Kiara Rao,253.2,1.5,Severe Overvoltage
+IN-MUM-2617,Isha Patil,241.6,11.2,High Load
+IN-MUM-3027,Gauri Agarwal,180.9,1.9,Brownout Level
+IN-MUM-2662,Sonal Gill,229.8,5.3,Normal
+IN-MUM-3364,Anirudh Srinivasan,202.0,2.8,Normal
+IN-MUM-2915,Pooja Khatri,198.3,10.2,Brownout Level
+IN-MUM-2841,Siddharth Pillai,186.1,4.7,Brownout Level
+IN-MUM-2719,Lekha Seth,233.7,3.3,Normal
+IN-MUM-9019,Pooja Deshmukh,211.6,4.6,Normal
+IN-MUM-3020,Yash Seth,184.3,9.0,Brownout Level
+IN-MUM-4541,Karan Patel,229.2,5.9,Normal
+IN-MUM-8780,Ishaan Verma,212.2,4.2,Normal
+IN-MUM-1228,Riya Gupta,225.4,7.9,Normal
+IN-MUM-3186,Deepak Rao,256.4,3.5,Severe Overvoltage
+IN-MUM-1020,Manish Sharma,0.0,0.0,Power Outage
+IN-MUM-3768,Deepak Deshpande,211.1,12.5,Critical Load
+IN-MUM-4175,Abhishek Khatri,213.9,9.9,Normal
+IN-MUM-7991,Sameer Tyagi,0.0,0.0,Power Outage
+IN-MUM-4110,Saanvi Iyer,187.5,7.6,Brownout Level
+IN-MUM-5798,Saisha Verma,207.4,3.6,Normal
+IN-MUM-9220,Vikram Iyer,212.4,2.6,Normal
+IN-MUM-7390,Tanvi Sharma,220.5,10.2,Normal
+IN-MUM-5748,Ishani Kapoor,242.4,8.8,High Load
+IN-MUM-5322,Shruti Rao,183.1,13.0,Brownout Level
+IN-MUM-5743,Simran Seth,196.5,0.6,Brownout Level
+IN-MUM-4075,Abhishek Bhatt,248.9,4.4,High Load
+IN-MUM-3870,Aarav Reddy,223.4,10.9,Normal
+IN-MUM-4721,Tanvi Bhatt,246.5,10.5,High Load
+IN-MUM-5235,Priyanka Bansal,240.8,11.4,High Load
+IN-MUM-9815,Avni Gupta,183.9,7.9,Brownout Level
+IN-MUM-9203,Pooja Dubey,238.1,4.9,Normal
+IN-MUM-4574,Priyanka Gill,235.3,4.6,Normal
+IN-MUM-8470,Anirudh Chauhan,192.6,0.3,Brownout Level
+IN-MUM-7180,Yash Jadhav,258.6,11.8,Severe Overvoltage
+IN-MUM-2772,Kabir Nair,185.0,1.6,Brownout Level
+IN-MUM-5251,Karan Bansal,227.4,2.3,Normal
+IN-MUM-9819,Pooja Khan,238.2,9.3,Normal
+IN-MUM-4156,Pooja Reddy,242.8,8.7,High Load
+IN-MUM-4916,Pooja Iyer,181.3,3.6,Brownout Level
+IN-MUM-2832,Dhruv Jadhav,258.1,11.1,Severe Overvoltage
+IN-MUM-9640,Tanvi Mishra,253.8,5.0,Severe Overvoltage
+IN-MUM-8257,Gaurav Menon,211.1,6.5,Normal
+IN-MUM-3734,Karan Mukherjee,233.3,13.0,Critical Load
+IN-MUM-4291,Abhishek Naidu,221.8,13.0,Critical Load
+IN-MUM-7917,Divya Malhotra,212.6,0.3,Normal
+IN-MUM-9618,Lekha Pandey,201.8,1.0,Normal
+IN-MUM-9169,Riya Mishra,232.8,11.1,Normal
+IN-MUM-1051,Harshil Menon,215.7,10.2,Normal
+IN-MUM-9668,Prateek Pillai,204.3,7.6,Normal
+IN-MUM-6636,Sonal Patil,222.2,5.4,Normal
+IN-MUM-3995,Shruti Sharma,254.3,2.8,Severe Overvoltage
+IN-MUM-4063,Priyanka Seth,252.3,9.6,Severe Overvoltage
+IN-MUM-8697,Avni Gill,180.9,1.7,Brownout Level
+IN-MUM-5479,Rohan Pillai,219.3,0.4,Normal
+IN-MUM-4068,Gaurav Rathore,194.6,2.0,Brownout Level
+IN-MUM-9084,Varun Gupta,215.5,13.8,Critical Load
+IN-MUM-7341,Kabir Verma,228.4,10.8,Normal
+IN-MUM-4439,Prisha Shrivastav,0.0,0.0,Power Outage
+IN-MUM-6129,Navya Chaudhary,213.1,10.4,Normal
+IN-MUM-7938,Vikram Gupta,214.7,13.3,Critical Load
+IN-MUM-1815,Ananya Bhardwaj,242.5,3.8,High Load
+IN-MUM-7396,Dhruv Rathore,213.7,1.8,Normal
+IN-MUM-7285,Rahul Chaudhary,258.8,2.5,Severe Overvoltage
+IN-MUM-3479,Saanvi Kulkarni,201.8,14.0,Critical Load
+IN-MUM-9622,Dhruv Khatri,225.0,4.0,Normal
+IN-MUM-1999,Varun Seth,241.3,5.7,High Load
+IN-MUM-9621,Bhavana Gupta,257.2,13.9,Severe Overvoltage
+IN-MUM-4849,Karan Mehta,227.7,4.2,Normal
+IN-MUM-8852,Yash Bose,209.4,0.3,Normal
+IN-MUM-4077,Abhishek Shrivastav,187.1,3.2,Brownout Level
+IN-MUM-3510,Rohan Saxena,204.5,0.7,Normal
+IN-MUM-5683,Abhishek Dwivedi,235.8,0.9,Normal
+IN-MUM-6481,Shruti Reddy,244.7,13.6,High Load
+IN-MUM-6139,Gauri Nair,258.4,7.5,Severe Overvoltage
+IN-MUM-7849,Aarush Sood,190.2,11.0,Brownout Level
+IN-MUM-9344,Meera Joshi,181.9,2.8,Brownout Level
+IN-MUM-3199,Ishani Saxena,184.0,10.6,Brownout Level
+IN-MUM-2013,Maya Gupta,195.5,12.0,Brownout Level
+IN-MUM-8458,Neeraj Dubey,211.7,9.9,Normal
+IN-MUM-4037,Jatin Bhardwaj,211.4,10.9,Normal
+IN-MUM-8459,Isha Patel,196.4,0.8,Brownout Level
+IN-MUM-1392,Tanvi Singh,198.7,10.6,Brownout Level
+IN-MUM-9026,Prateek Tyagi,0.0,0.0,Power Outage
+IN-MUM-3877,Shruti Menon,257.3,1.4,Severe Overvoltage
+IN-MUM-6688,Ishani Mishra,223.1,12.9,Critical Load
+IN-MUM-2874,Kiara Sood,219.0,8.0,Normal
+IN-MUM-4111,Divya Kunj,183.2,8.8,Brownout Level
+IN-MUM-5594,Anirudh Pillai,229.2,6.0,Normal
+IN-MUM-8374,Saisha Reddy,259.6,2.9,Severe Overvoltage
+IN-MUM-3251,Devansh Patel,219.4,11.8,Normal
+IN-MUM-2026,Karan Joshi,251.4,11.5,Severe Overvoltage
+IN-MUM-8617,Jatin Mehta,191.6,6.3,Brownout Level
+IN-MUM-6092,Reyansh Mishra,205.5,5.6,Normal
+IN-MUM-4030,Kiara Dwivedi,0.0,0.0,Power Outage
+IN-MUM-8290,Prateek Bhatt,240.9,3.9,High Load
+IN-MUM-3842,Ishani Kulkarni,238.9,9.4,Normal
+IN-MUM-7961,Tanisha Pandey,231.3,11.6,Normal
+IN-MUM-2804,Vikram Kapoor,222.7,8.7,Normal
+IN-MUM-6292,Amit Shrivastav,202.7,4.4,Normal
+IN-MUM-2089,Ishaan Dubey,250.6,5.2,Severe Overvoltage
+IN-MUM-6146,Maya Chaudhary,218.8,11.7,Normal
+IN-MUM-1852,Neeraj Chauhan,243.0,6.9,High Load
+IN-MUM-5484,Aditya Pillai,0.0,0.0,Power Outage
+IN-MUM-1918,Tanvi Mishra,208.5,12.1,Critical Load
+IN-MUM-3244,Sameer Jha,193.3,13.5,Brownout Level
+IN-MUM-7748,Anya Kapoor,202.7,0.4,Normal
+IN-MUM-9943,Aryan Patel,237.5,6.0,Normal
+IN-MUM-4987,Sanjana Khan,194.1,9.0,Brownout Level
+IN-MUM-3850,Ananya Jha,219.6,4.2,Normal
+IN-MUM-2945,Ishani Jha,248.5,2.7,High Load
+IN-MUM-2919,Anya Khatri,199.9,4.5,Brownout Level
+IN-MUM-7275,Bhavana Shrivastav,201.2,13.2,Critical Load
+IN-MUM-6984,Ishaan Bhardwaj,248.0,4.3,High Load
+IN-MUM-9351,Nisha Saxena,0.0,0.0,Power Outage
+IN-MUM-2567,Nisha Hegde,0.0,0.0,Power Outage
+IN-MUM-7822,Prateek Joshi,217.0,12.4,Critical Load
+IN-MUM-5689,Gaurav Menon,229.7,6.0,Normal
+IN-MUM-8833,Reyansh Jha,207.8,10.5,Normal
+IN-MUM-3867,Yash Tyagi,206.3,7.5,Normal
