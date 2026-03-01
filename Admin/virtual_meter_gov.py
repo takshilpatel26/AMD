@@ -5,16 +5,15 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-<<<<<<< Updated upstream
 import pandas as pd
 import paho.mqtt.client as mqtt
-=======
+
 # --- CONFIGURATION ---
 BROKER = "broker.hivemq.com"
 TOPIC = "gram-meter/village/map"
 CSV_FILE = Path(__file__).resolve().parent / "dataforgovpanel.csv"
 NUM_HOUSES = 500  # Generate 500 houses
->>>>>>> Stashed changes
+
 
 
 BASE_DIR = Path(__file__).resolve().parent
