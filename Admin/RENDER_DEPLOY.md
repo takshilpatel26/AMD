@@ -1,5 +1,21 @@
 # Deploy `virtual_meter_gov.py` on Render
 
+Note: This simulator is now available in backend as a Django command:
+`python manage.py run_gov_simulator`
+
+Recommended deployment is from backend codebase so simulation and API share one source of truth.
+
+## Backend-first deploy (recommended)
+
+- Type: **Background Worker**
+- Root Directory: `backend`
+- Build Command:
+  `pip install -r requirements.txt`
+- Start Command:
+  `python manage.py run_gov_simulator`
+
+You can still deploy from `Admin/` with `python virtual_meter_gov.py` if needed.
+
 This service should be deployed as a **Background Worker** (not a Web Service), because it continuously publishes MQTT data and does not expose an HTTP port.
 
 ## 1) Create Render service
