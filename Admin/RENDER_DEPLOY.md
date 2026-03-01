@@ -16,6 +16,24 @@ Recommended deployment is from backend codebase so simulation and API share one 
 
 You can still deploy from `Admin/` with `python virtual_meter_gov.py` if needed.
 
+## Free-tier single service mode (no worker)
+
+If Background Worker is not available on your Render plan, run simulator inside the backend web service process:
+
+- Type: **Web Service**
+- Root Directory: `backend`
+- Build Command:
+  `pip install -r requirements.txt && python manage.py migrate && python manage.py collectstatic --noinput`
+- Start Command:
+  `daphne -b 0.0.0.0 -p $PORT gram_meter.asgi:application`
+- Required env var:
+  `RUN_GOV_SIMULATOR_IN_WEB=true`
+
+Notes:
+
+- Keep one web instance/process to avoid duplicate simulator publishers.
+- This mode is for free-tier constraints; separate worker is still cleaner when available.
+
 This service should be deployed as a **Background Worker** (not a Web Service), because it continuously publishes MQTT data and does not expose an HTTP port.
 
 ## 1) Create Render service

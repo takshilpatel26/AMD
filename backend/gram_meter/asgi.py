@@ -20,6 +20,11 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gram_meter.settings')
 # is populated before importing code that may import ORM models.
 django_asgi_app = get_asgi_application()
 
+from distribution.simulator_runtime import start_embedded_simulator_if_enabled
+
+if start_embedded_simulator_if_enabled():
+    print("Embedded government simulator started in web process")
+
 # Import websocket routing (will create later)
 from meters import routing as meters_routing
 
